@@ -1,0 +1,1 @@
+if(Array.isArray(window.DAILY_ROUTES)&&window.DAILY_ROUTES.length){window.ROUTES=window.DAILY_ROUTES;}
